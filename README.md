@@ -13,7 +13,7 @@ variables, condicionales, estructuras de datos, funciones, programación funcion
 
 ## Instrucciones de ejecución
 1. Instalar dependencias:
-   pip install -r requirements.txt
+   pip install - requirements.txt
 2. Ejecutar la aplicación:
    streamlit run app.py
 
